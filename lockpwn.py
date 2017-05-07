@@ -17,19 +17,32 @@ def main():
             ----------------------------------------------------------
                 1. Set the dial to 0.
                 
-                2. Apply full pressure upward on the shackle as if trying to open it.
+                2. Apply full pressure upward on the shackle as if trying to
+                open it.
                 
-                3. Rotate dial to the left (towards 10) hard until the dial gets locked.
+                3. Rotate dial to the left (towards 10) hard until the dial
+                gets locked.
                 
-                4. Notice how the dial is locked into a small groove. If you're directly between two digits such as 3 and 4, release the shackle and turn the dial left further until you're into the next locked groove. However, if the dial is between two half digits (eg 2.5 and 3.5), then enter the digit in-between into First Locked Position (eg, 3).
+                4. Notice how the dial is locked into a small groove. If you're
+                directly between two digits such as 3 and 4, release the
+                shackle and turn the dial left further until you're into the
+                next locked groove. However, if the dial is between two half
+                digits (eg 2.5 and 3.5), then enter the digit in-between into
+                First Locked Position (eg, 3).
                 
-                5. Do this again until you find the second digit below 11 that is between two half digits (eg 5.5 and 6.5), and enter the whole number in Second Locked Position (eg, 7).
+                5. Do this again until you find the second digit below 11 that
+                is between two half digits (eg 5.5 and 6.5), and enter the
+                whole number in Second Locked Position (eg, 7).
                 
-                6. Apply half as much pressure to the shackle so that you can turn the dial.
+                6. Apply half as much pressure to the shackle so that you can
+                turn the dial.
                 
-                7. Rotate dial to the right until you feel resistance. Rotate the dial to the right several more times to ensure you're feeling resistance at the same exact location.
+                7. Rotate dial to the right until you feel resistance. Rotate
+                the dial to the right several more times to ensure you're
+                feeling resistance at the same exact location.
                 
-                8. Enter this number in Resistant Location. If the resistance begins at a half number, such as 14.5, enter 14.5.
+                8. Enter this number in Resistant Location. If the resistance
+                begins at a half number, such as 14.5, enter 14.5.
                 
                 9. Click Find Combos!
             
